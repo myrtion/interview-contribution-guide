@@ -1,6 +1,6 @@
 # Guide de contribution aux exercices techniques
 
-### Quelques unes de nos attentes pour commencer
+### Quelques indications pour commencer
 
 - Les sources de vos créations nous intéressent
 - On aime les programmes qui fonctionnent
@@ -18,8 +18,6 @@ Ah, et n'hésitez pas à nous proposer les différentes étapes de votre travail
 Github est le plus connu mais il y en a plein d'autres. Le lien vers votre repository perso nous suffit dans ce cas. 
 
 #### Sur un repository privé
-
-[La solution d'Atlassian](https://bitbucket.org/) permet d'avoir de petits repositories privés.
 
 Bien sûr, comme c'est privé, il faudra nous partager l'accès. 
 Les détails pourront être vus avec la personne qui fera la relecture. 
