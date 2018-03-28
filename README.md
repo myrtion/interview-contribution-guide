@@ -29,7 +29,9 @@ On vous mettra en relation avec elle pour passer par un compte ou une clé à aj
 ### Mettre vos contributions à disposition sur un disque en ligne
 
 Si vous avez un compte dropbox à rentabiliser, ou un drive dans un coin, ça peut aussi être une bonne solution.
-Envoyez-nous le lien de partage et on s'en sortira, et ne vous sentez pas obligés de compresser tout ça.
+Envoyez-nous le lien de partage et on s'en sortira. 
+
+Et ne vous sentez pas obligés de compresser tout ça.
 
 ### Nous envoyer vos contributions par mail
 
